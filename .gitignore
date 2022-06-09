@@ -1,0 +1,9 @@
+# binaries
+bin/debug
+bin/release
+
+# SDL2 libs
+include/SDL2
+lib
+
+
